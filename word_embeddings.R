@@ -29,26 +29,36 @@ women_vectors <- model %>% closest_to("women")
 
 labor_vectors <- model %>% closest_to("labor")
 
+strike_vectors <- model %>% closest_to("strike")
+
 
 
 #visualize models
-work = closest_to(model,model[[c("work")]],150)
+work = closest_to(model,model[[c("work")]],50)
 average_work = model[[work$word,average=F]]
 plot(average_work,method="pca")
 
-home = closest_to(model,model[[c("home")]],150)
+home = closest_to(model,model[[c("home")]],50)
 average_home = model[[home$word,average=F]]
 plot(average_home,method="pca")
 
-family = closest_to(model,model[[c("family")]],150)
+family = closest_to(model,model[[c("family")]],50)
 average_family = model[[family$word,average=F]]
-plot(average_family,method="pca")
+ plot(average_family,method="pca")
 
-coal = closest_to(model,model[[c("coal")]],150)
+coal = closest_to(model,model[[c("coal")]],50)
 average_coal = model[[coal$word,average=F]]
 plot(average_coal,method="pca")
 
-women = closest_to(model,model[[c("women")]],150)
+women = closest_to(model,model[[c("women")]],50)
 average_women = model[[women$word,average=F]]
 plot(average_women,method="pca")
+
+labor = closest_to(model,model[[c("labor")]],50)
+average_labor = model[[labor$word,average=F]]
+plot(average_labor,method="pca")
+
+strike = closest_to(model,model[[c("strike")]],50)
+average_strike = model[[strike$word,average=F]]
+ plot(average_strike,method="pca")
 
