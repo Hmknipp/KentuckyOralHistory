@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Women of Coal Revisited
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Hallie
+    family-names: Knipp
+    email: hknipp@g.clemson.edu
+    affiliation: Clemson University
+    orcid: 'https://orcid.org/0009-0008-2912-2905'
