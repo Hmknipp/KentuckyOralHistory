@@ -1,14 +1,7 @@
-# KentuckyOralHistory
+# AppalachianOralHistory
 This is a text analysis project which utilizes oral histories from the University of Kentucky Louie B. Nunn Center for Oral History. 
 
-The specific collections utilized are as follows: 
+The specific collection referenced here is titled "Appalachia: Women of Coal," which contains original audio files of interviews which were recorded between 1992-1994. In 1996, _Women of Coal_ was published by Randall Norris and Jean-Philippe Cyprus.
 
-Appalachia: Barthell Coal Company (McCreary County) Oral History Project
-
-Appalachia: Family and Gender in the Coal Community Oral History Project
-
-Appalachia: Immigrants in the Coal Fields Oral History Project
-
-Appalachia: Women Of Coal Oral History Project
-
-Appalachia: Social History and Cultural Change in the Elkhorn Coal Fields Oral History Project
+In 1996, Randall Norris and Jean-Phillipe Cypres published _Women of Coal_, utilizing oral history interviews of fifty-five Appalachian women from Kentucky, West Virginia, Virginia, and Tennessee. Women of Coal, while a fairly groundbreaking work in the field of Appalachian women’s history, does not present an academic argument from its breadth of interviews– and indeed, this was not the goal. By analyzing the original audio recordings when available and the edited stories of the women whose original interviews are not archived, this project seeks to explore the broader historical context of these women’s stories. By applying computational methods such as topic modeling and word vector analysis as well as painting a broader historical picture for the original interviews one can not only better understand the primary sources represented in Women of Coal but also the ways overarching American society has viewed and impacted regions such as Appalachia. Through digital textual analysis of these interviews and consideration of the historical context of the region, women’s intimate labor in the coalfields becomes apparent. 
+__
